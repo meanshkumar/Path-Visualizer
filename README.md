@@ -27,7 +27,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Path-Visualizer
 ```
 Start Server or Go Live
 
@@ -38,4 +38,4 @@ Start Server or Go Live
 
 ## Feedback
 
-If you have any feedback, please reach out to us at im.ansh@gmail.com# Path-Visualizer
+If you have any feedback, please reach out to us at im.ansh@gmail.com
